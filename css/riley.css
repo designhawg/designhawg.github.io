@@ -1,0 +1,35 @@
+h1.white, h2.white, h3.white, h4.white {
+	color: #fff;
+}
+
+h2.familyname, h4.familyname {
+	text-align: right;
+	color: #fff;
+}
+
+h2.familyname-dark, h4.familyname-dark {
+	text-align: right;
+	color: #000;
+}
+
+img.fullwidth {
+	max-width: 100%;
+}
+
+h4.shim, h2.shim {
+	margin-top: 300px;
+}
+
+.reveal iframe {
+	max-width: 100%;
+	margin-bottom: 30px;
+}
+
+.reveal section img {
+	border: none;
+}
+
+div.backhelp {
+	background: rgba(255,255,255,.5);
+	padding: 20px;
+}
