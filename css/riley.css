@@ -7,6 +7,17 @@ h2.familyname, h4.familyname {
 	color: #fff;
 }
 
+h2.familyname-greggfix, h4.familyname-greggfix {
+	text-align: right;
+	color: #fff;
+	margin-right: -100px;
+}
+
+h2.familyname-left, h4.familyname-left {
+	text-align: left;
+	color: #fff;
+}
+
 h2.familyname-dark, h4.familyname-dark {
 	text-align: right;
 	color: #000;
